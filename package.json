@@ -1,0 +1,16 @@
+{
+  "name": "mock-server",
+  "version": "0.0.1",
+  "description": "Mock API Server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Phor Vicheka",
+  "license": "YWMC MAIST",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "nodemon": "^2.0.6"
+  }
+}
